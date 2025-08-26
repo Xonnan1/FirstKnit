@@ -3,16 +3,16 @@ title: "First Knit"
 author: "Matthew Ramirez"
 date: "`r Sys.Date()`"
 output:
-  word_document:
-    toc: true
-    toc_depth: '5'
-  pdf_document:
-    toc: true
-    toc_depth: '5'
   html_document:
     number_sections: true
     toc: true
     toc_depth: 5
+  pdf_document:
+    toc: true
+    toc_depth: '5'
+  word_document:
+    toc: true
+    toc_depth: '5'
 ---
 
 # A Little Survey
@@ -24,7 +24,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-Lancaster High school in 2023. English was easier than math however, I did better in Math as I studied hard for it.
+I attended Lancaster High school and graduated in 2023. English was easier than math however, I did better in Math as I studied hard for it so math was my best subject.
      
 
 
@@ -33,14 +33,14 @@ Lancaster High school in 2023. English was easier than math however, I did bette
 
 ### my answer   
   
-   I use a Windows computer and rate myself as a techie of 6. My internet acesse is pretty good that I can stay on without any problems.
+   I use a Windows computer and rate myself as a techie of 6. My internet access is pretty good that I can stay on without any problems.
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
   
-   I perfer to be called Matthew or my nickname Matt.
+   I prefer to be called Matthew by my classmates and instuctor. If I had another I woud like to be called by my nickname Matt.
  
 
 
@@ -62,7 +62,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 ### my answer     
   
-   I've been to Guatemala before. I have not been to the military before and If i was drafted I guess it would be for technical or medical support rather than fighting.
+   I've been to Guatemala before as it was my dad's birth country. I have not been to the military before and If i was drafted I guess it would be for technical or medical support rather than fighting so I guess the Army branch.
   
 
 
@@ -75,7 +75,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ### my answer     
   
-   I did take math 115 but I didn't do well that year. I did know that math 115 did for GED but I didn't know Math 116 had more importance for other institutions. At least a B and higher is better.
+   I did take math 115 but I didn't do well that year. I did know that math 115 did for GED but I didn't know Math 116 had more importance for other institutions. At least a B and higher is better for my future plans.
  
 
 
